@@ -1,0 +1,51 @@
+body {
+  padding-top: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Indie Flower", cursive;
+  font-family: "Pacifico", cursive;
+  color: #45171d;
+  font-size: 40px;
+}
+
+h2 {
+  margin: 20px 0;
+  color: #e84a5f;
+  font-family: "Secular One", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+.temperature-today {
+  font-size: 40px;
+  padding-bottom: 5px;
+}
+.info-day {
+  font-size: 20px;
+}
+.sun {
+  font-size: 50px;
+  color: #fda403;
+}
+
+.image {
+  font-size: 20px;
+}
+
+.fa-cloud-sun,
+.fa-cloud-sun-rain {
+  color: #2772db;
+}
+.weekdays {
+  font-size: 15px;
+  font-family: "Secular One", sans-serif;
+}
+
+.input {
+  border-radius: 5px;
+}
